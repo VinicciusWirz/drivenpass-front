@@ -1,0 +1,10 @@
+node_modules/
+dist/
+build/
+coverage/
+
+README.md
+
+.eslintrc.cjs
+.gitignore
+.env.example
