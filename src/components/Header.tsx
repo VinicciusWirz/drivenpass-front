@@ -33,7 +33,7 @@ export default function Header() {
   return (
     <>
       <HeaderStyle>
-        <Link to="/">DrivenPass</Link>
+        <Link to="/">DrivenPass v2.0</Link>
         <div onClick={logout}>Logout</div>
       </HeaderStyle>
       <PageTitleStyle>
