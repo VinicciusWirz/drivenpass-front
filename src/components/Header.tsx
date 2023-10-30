@@ -67,6 +67,7 @@ const PageTitleStyle = styled.div`
   h3 {
     background: #005985;
     padding: 10px 16px;
+    font-weight: 700;
     width: 100%;
     color: white;
   }
